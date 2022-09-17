@@ -5,6 +5,8 @@ const ContentEl = styled.div`
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 45px;
 `;
 
 export default ContentEl;
